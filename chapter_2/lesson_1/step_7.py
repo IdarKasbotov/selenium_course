@@ -1,5 +1,5 @@
 """
-https://stepik.org/lesson/165493/step/5?unit=140087
+https://stepik.org/lesson/165493/step/7?unit=140087
 """
 
 import math
